@@ -1,0 +1,12 @@
+Sistema de Informacion para Colegio con los siguentes Modulos:
+
+1. Usuarios (Creacion, Modificacion, Activacion y Desactivacion)
+2. Categorias (Creacion, Modificacion, Activacion y Desactivacion)
+3. Medidas (Creacion, Modificacion, Activacion y Desactivacion)
+4. Productos (Creacion, Modificacion, Activacion y Desactivacion), incluye carga de Imagenes
+5. Administracion
+    5.1. Usuarios (Creacion, Modificacion, Activacion y Desactivacion)
+    5.2. Configuracion de la Empresa con Tasa del dia Configurable
+6. Cajas
+    6.1. Cajas (Creacion, Modificacion, Activacion y Desactivacion)
+    6.2. Cierres de Caja
