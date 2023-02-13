@@ -1,5 +1,5 @@
 <?php
-const base_url = "http://localhost:2107/colegio/";
+const base_url = "http://localhost/Proyectos/colegio/";
 const host = "localhost";
 const user = "root";
 const pass = "";
